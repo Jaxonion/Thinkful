@@ -3,7 +3,7 @@
 }
 body {
 	background-color: blue;
-	style: flex;
+	display: flex;
 	justify-content: center;
 
 }
